@@ -1,0 +1,55 @@
+/* ===================== *
+ * Alivio para el Cazador de Magos *
+ * ===================== */
+@101 = ~Alivio para el Asesino de Magos~
+@102 = ~ASESINO DE MAGOS: Este guerrero se especializa en dar caza a los usuarios de la magia arcana. Para ello, condiciona su cuerpo para resistir la magia y aprende técnicas de ataque capaces de interrumpir el lanzamiento de conjuros arcanos. Este riguroso régimen de entrenamiento requiere que el Asesino de Magos renuncie al uso de cualquier objeto mágico excepto armas, armaduras y pociones de curación. Además, debe permanecer plenamente dedicado a su causa y no puede seguir otras profesiones.
+
+Ventajas:
+– Comienza con un 10% de resistencia mágica base.
+– Obtiene un +2% de bonificación adicional a la resistencia mágica por cada nivel de experiencia.
+– Obtiene la habilidad pasiva Interrumpir Magia a nivel 1.
+– Obtiene la habilidad Destruir Magia a nivel 1 y cada 8 niveles posteriores.
+
+Desventajas:
+– No puede usar ningún objeto mágico excepto armas, armaduras, pociones de curación y cualquier equipo que proporcione Resistencia Mágica y/o Resistencia al Daño Mágico que esté permitido para un Guerrero.
+– No puede ser multiclase.
+
+Interrumpir Magia:
+Cada vez que un Asesino de Magos asesta un golpe con éxito a un lanzador de conjuros arcanos, el objetivo sufre una penalización acumulativa de fallo de conjuro. Durante los siguientes 3 asaltos, la víctima tiene un 10% de probabilidad base de fallar cualquier conjuro arcano, más un 1% por cada nivel de experiencia que alcance el Cazador de Magos. Esta habilidad pasiva está siempre activa.
+
+Destruir Magia:
+Un Asesino de Magos puede canalizar su resistencia mágica innata hacia sus armas para atravesar las defensas mágicas de los lanzadores de conjuros arcanos. Durante el asalto en que se activa esta habilidad, cada golpe con éxito elimina una protección de combate y una protección específica de su objetivo. Sin embargo, esto anula temporalmente la resistencia mágica innata del Cazador de Magos, volviéndolo vulnerable a la magia durante los siguientes 2 asaltos. Hasta que su resistencia mágica se recupere, el Asesino de Magos no podrá usar ninguna habilidad especial que dependa de ella.~
+
+@103 = ~ASESINO DE MAGOS: Este guerrero se especializa en dar caza a los usuarios de la magia arcana. Con ese fin, <PRO_HESHE> condiciona su cuerpo para resistir la magia y aprende técnicas que pueden interrumpir el lanzamiento de conjuros. El Cazador de Magos debe permanecer plenamente dedicado a su causa y no puede seguir otras profesiones.
+
+Ventajas:
+– Obtiene un 20% de resistencia mágica a nivel 1.
+– Obtiene un +2% de bonificación adicional a la resistencia mágica por nivel.
+– Obtiene la habilidad Anular Magia a nivel 1 y usos adicionales a los niveles 10 y 20.
+– Obtiene la habilidad Proteger a nivel 1 y usos adicionales a los niveles 10 y 20.
+
+Anular Magia:
+Al activarse, el Asesino de Magos anula la magia arcana en un área de 30 pies alrededor de <PRO_HIMHER>. Cualquier lanzador de conjuros arcanos atrapado en el área de efecto sufrirá un 100% de fallo de conjuro durante 5 asaltos. Este efecto ignora la resistencia mágica y no permite tiradas de salvación.
+
+Proteger Aliados:
+Durante los siguientes 5 asaltos, el Asesino de Magos sacrifica el 20% de su resistencia mágica y la aplica a su grupo.
+
+Desventajas:
+– La disciplina del Cazador de Magos requiere dedicación y, como resultado, no pueden ser multiclase.
+– El arduo entrenamiento por el que pasan los Cazadores de Magos pasa factura y resulta en -2 a la Constitución.
+– La devoción a la caza de magos limita el entrenamiento marcial de este guerrero y <PRO_HESHE> solo puede alcanzar la maestría (3 espacios) en cualquier arma.
+– No puede usar ningún objeto mágico aparte de armas, armaduras y equipo que proporcione Resistencia Mágica y/o Resistencia al Daño Mágico que esté permitido para un Guerrero.~
+
+@104 = ~CAZADOR DE MAGOS: Este guerrero ha sido entrenado especialmente por su secta para destacar en la caza y el combate contra lanzadores de conjuros de todo tipo.
+
+Ventajas:
+– Cada golpe con éxito otorga un 10% de probabilidad acumulativa de fallo de conjuro al objetivo.
+– +1% de Resistencia Mágica por nivel hasta el nivel 19.
+– Alternancia de +5% y +1% de Resistencia Mágica a partir del nivel 20.
+
+Desventajas:
+– No puede usar ningún objeto mágico aparte de armas, armaduras y equipo que proporcione Resistencia Mágica y/o Resistencia al Daño Mágico que esté permitido para un Guerrero.~
+
+@201 = ~Cuando se le pregunta por su pasado, VALYGAR guarda silencio durante mucho tiempo y su rostro se ensombrece. Explica brevemente que es el último del linaje noble de los Corthala, una familia que antaño fue una de las más ricas de Amn. Sin embargo, los Corthala siempre han estado malditos con la habilidad mágica, y Valygar escupe las palabras con gran desprecio. Cada Corthala que ha usado sus talentos mágicos se ha obsesionado con ellos y finalmente ha tenido un final trágico. Su madre fue la víctima más reciente, aunque el guerrero no da más detalles al respecto. Valygar tiene la intención de cumplir el juramento de su familia de encontrar y destruir a su antepasado, Lavok, y luego pretende dejar que su linaje maldito se extinga de una vez por todas.~
+
+@202 = ~Traedme a Valygar, el asesino de magos.~
