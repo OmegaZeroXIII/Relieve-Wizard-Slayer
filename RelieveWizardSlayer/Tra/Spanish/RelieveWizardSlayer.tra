@@ -35,12 +35,12 @@ Proteger Aliados:
 Durante los siguientes 5 asaltos, el Asesino de Magos sacrifica el 20% de su resistencia mágica y la aplica a su grupo.
 
 Desventajas:
-– La disciplina del Cazador de Magos requiere dedicación y, como resultado, no pueden ser multiclase.
-– El arduo entrenamiento por el que pasan los Cazadores de Magos pasa factura y resulta en -2 a la Constitución.
+– La disciplina del Asesino de Magos requiere dedicación y, como resultado, no pueden ser multiclase.
+– El arduo entrenamiento por el que pasan los Asesinos de Magos pasa factura y resulta en -2 a la Constitución.
 – La devoción a la caza de magos limita el entrenamiento marcial de este guerrero y <PRO_HESHE> solo puede alcanzar la maestría (3 espacios) en cualquier arma.
 – No puede usar ningún objeto mágico aparte de armas, armaduras y equipo que proporcione Resistencia Mágica y/o Resistencia al Daño Mágico que esté permitido para un Guerrero.~
 
-@104 = ~CAZADOR DE MAGOS: Este guerrero ha sido entrenado especialmente por su secta para destacar en la caza y el combate contra lanzadores de conjuros de todo tipo.
+@104 = ~ASESINO DE MAGOS: Este guerrero ha sido entrenado especialmente por su secta para destacar en la caza y el combate contra lanzadores de conjuros de todo tipo.
 
 Ventajas:
 – Cada golpe con éxito otorga un 10% de probabilidad acumulativa de fallo de conjuro al objetivo.
