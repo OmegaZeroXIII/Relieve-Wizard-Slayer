@@ -11,6 +11,11 @@ LANGUAGE ~Russkiy (Perevod: Saigon1983)~
          ~Russian~
 		 ~RelieveWizardSlayer/Tra/Russian/Setup.tra~
 		 ~RelieveWizardSlayer/Tra/Russian/IHateUndead.tra~
+
+LANGUAGE ~Espanol (Por: XsidoGamer~
+		 ~Spanish~
+		 ~RelieveWizardSlayer/Tra/Spanish/Setup.tra~
+		 ~RelieveWizardSlayer/Tra/Spanish/RelieveWizardSlayer.tra~
 		 
 //__________________________________________________________________________________
 //__________________________________________________________________________________
@@ -31,4 +36,5 @@ INCLUDE ~RelieveWizardSlayer/Components/RelieveWizardSlayer.tpa~
 
 BEGIN @2
 REQUIRE_PREDICATE GAME_IS ~bg2ee eet~ @3
+
 INCLUDE  ~RelieveWizardSlayer/Components/Valygar.tpa~
